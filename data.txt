@@ -1,0 +1,35 @@
+[
+{
+"id": "1",
+"taiKhoan": "jroberts",
+"hoTen": "July Roberts",
+"matKhau": "123456",
+"email": "jroberts@gmail.com",
+"loaiND": "GV",
+"ngonNgu": "ITALIAN",
+"moTa": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+"hinhAnh": "teacher_1.jpg"
+},
+{
+"id": "2",
+"taiKhoan": "jstone",
+"hoTen": "Jon Stone",
+"matKhau": "123456",
+"email": "jstone@gmail.com",
+"loaiND": "GV",
+"ngonNgu": "FRENCH",
+"moTa": "Nanotechnology immersion along the information.",
+"hinhAnh": "teacher_2.jpg"
+},
+{
+"id": "3",
+"taiKhoan": "ntran",
+"hoTen": "Nguyen Tran",
+"matKhau": "123456",
+"email": "ntran@gmail.com",
+"loaiND": "HV",
+"ngonNgu": "CHINESE",
+"moTa": "Nanotechnology immersion along the information.",
+"hinhAnh": "teacher_2.jpg"
+}
+]
